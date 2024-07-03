@@ -1,0 +1,10 @@
+{
+  "fieldname": "file",
+  "originalname": "test.csv",
+  "encoding": "7bit",
+  "mimetype": "text/csv",
+  "destination": "./test/file",
+  "filename": "test.csv",
+  "path": "test\\file\\test.csv",
+  "size": 124
+}

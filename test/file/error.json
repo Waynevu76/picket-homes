@@ -1,0 +1,10 @@
+{
+  "fieldname": "file",
+  "originalname": "error.csv",
+  "encoding": "7bit",
+  "mimetype": "text/csv",
+  "destination": "./test/file",
+  "filename": "error.csv",
+  "path": "test\\file\\error.csv",
+  "size": 124
+}
